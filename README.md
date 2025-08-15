@@ -49,3 +49,6 @@ pip install -r requirements.txt
 
 # 3️⃣ Run Streamlit app
 streamlit run app.py
+
+🌐 Live Demo
+Streamlit Link: https://movies-recommender-app-t5nhnadyk6aexxhw2ssappk.streamlit.app/
